@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/game/Scene/MainScene.unity
+    guid: 544fbe86474982c4aad9fede60bef527
+  - enabled: 1
+    path: Assets/game/Scene/LevelScene.unity
+    guid: daec29937858d5042854c879a23fd50d
+  - enabled: 1
+    path: Assets/game/Scene/Stage/Stage1.unity
+    guid: 89806102f8648dd4a8d47a7f14bb5095
+  - enabled: 1
+    path: Assets/game/Scene/Stage/Stage2.unity
+    guid: e1e96ea3f50ec7d44bf18435d05a3ac5
+  - enabled: 1
+    path: Assets/game/Scene/Stage/Stage3.unity
+    guid: 1c931dd5984dc7c418299aafcf879104
+  - enabled: 1
+    path: Assets/game/Scene/Stage/Stage4.unity
+    guid: 3313707a148b19d44ab592d038e501ce
+  - enabled: 1
+    path: Assets/game/Scene/Stage/Stage5.unity
+    guid: 698e2b0190550f94c8b6718b3a2a7cb5
+  - enabled: 1
+    path: Assets/game/Scene/Stage/Stage6.unity
+    guid: 7de9e1bf5abc6dc468f4ca3e4b8a1e92
+  - enabled: 1
+    path: Assets/game/Scene/Stage/Stage7.unity
+    guid: 5341c8c642cc684419fa2ecbf8f2da2e
+  - enabled: 1
+    path: Assets/game/Scene/Stage/Stage8.unity
+    guid: 81d8654dd04e05b48bda069e81f0a6b8
+  - enabled: 1
+    path: Assets/game/Scene/Stage/Stage9.unity
+    guid: 13a9d88c805f64b40901bafba8625340
+  - enabled: 1
+    path: Assets/game/Scene/Stage/Stage10.unity
+    guid: fd9939b981c66604ab652e592abd5c02
+  - enabled: 1
+    path: Assets/game/Scene/Stage/Stage11.unity
+    guid: b928e2a5ce19773419dd844b9a1fcf60
+  - enabled: 1
+    path: Assets/game/Scene/Stage/Stage12.unity
+    guid: 84a7ea1b640529442b5b0cb8632e47ac
+  - enabled: 1
+    path: Assets/game/Scene/Guide/GuideStage1.unity
+    guid: 0234f55fd003f8a4584233ffdaec7495
+  - enabled: 1
+    path: Assets/game/Scene/Guide/GuideStage2.unity
+    guid: 853b3f90c07a10d4c891f528e96795d3
+  - enabled: 1
+    path: Assets/game/Scene/Guide/GuideStage3.unity
+    guid: a447d8df039bd064c980edb94c5970cf
+  - enabled: 1
+    path: Assets/game/Scene/Guide/GuideStage4.unity
+    guid: b22e721bef46629408d876d9630deb3e
